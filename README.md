@@ -1,2 +1,4 @@
 # dlink_video_maker
-a simple video maker for dlink cam
+A simple video maker for dlink cam written in Python
+
+./zip_video <folder_contains_image>
